@@ -1,0 +1,43 @@
+# Langchain
+langchain
+langsmith
+langchain_community
+
+# General
+ipykernel
+python-dotenv
+
+# Embedding
+langchain_huggingface
+sentence-transformers
+
+# LLM
+langchain-openai
+langchain-groq
+langchain-google-genai 
+google-generativeai
+
+# Tools
+langchain_tavily
+
+# VectorDB
+chromadb
+langchain_chroma
+faiss-cpu
+weaviate-client
+langchain-weaviate
+
+# Data Loading
+rapidocr-onnxruntime
+pypdf
+beautifulsoup4
+tiktoken
+datasets
+
+# Unstructured Data Loading
+unstructured
+unstructured[all-docs]
+unstructured-pytesseract
+
+langchain-unstructured
+langchain-docling

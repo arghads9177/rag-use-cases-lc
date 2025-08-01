@@ -1,7 +1,34 @@
 [project]
 name = "rag-use-cases-lc"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Implementation of RAG Usecases in LangChain"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "chromadb>=1.0.15",
+    "datasets>=4.0.0",
+    "faiss-cpu>=1.11.0.post1",
+    "google-generativeai>=0.8.5",
+    "ipykernel>=6.30.0",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
+    "langchain-community>=0.3.27",
+    "langchain-docling>=1.0.0",
+    "langchain-google-genai>=2.0.10",
+    "langchain-groq>=0.3.6",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.28",
+    "langchain-tavily>=0.2.11",
+    "langchain-unstructured>=0.1.6",
+    "langchain-weaviate>=0.0.5",
+    "langsmith>=0.4.9",
+    "pypdf>=5.9.0",
+    "python-dotenv>=1.1.1",
+    "rapidocr-onnxruntime>=1.4.4",
+    "sentence-transformers>=5.0.0",
+    "tiktoken>=0.9.0",
+    "unstructured-pytesseract>=0.3.15",
+    "unstructured[all-docs]>=0.18.11",
+    "weaviate-client>=4.16.4",
+]
