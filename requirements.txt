@@ -41,3 +41,6 @@ unstructured-pytesseract
 
 langchain-unstructured
 langchain-docling
+
+# UI
+gradio
