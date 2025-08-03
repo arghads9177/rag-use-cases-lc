@@ -30,6 +30,7 @@ langchain-weaviate
 # Data Loading
 rapidocr-onnxruntime
 pypdf
+pymupdf
 beautifulsoup4
 tiktoken
 datasets
